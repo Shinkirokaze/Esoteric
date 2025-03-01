@@ -1,0 +1,2 @@
+# Esoteric
+I love Esolang
